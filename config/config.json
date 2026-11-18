@@ -1,0 +1,8 @@
+{
+    "hostname": "android-server.local.",
+    "service_name": "Android-Termux",
+    "service_type": "_ssh._tcp.local.",
+    "ssh_port": 8022,
+    "network_interface": "wlan1",
+    "check_interval": 15
+}
